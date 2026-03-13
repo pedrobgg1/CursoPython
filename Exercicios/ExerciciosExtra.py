@@ -88,28 +88,6 @@ print("A área do circulo é: ", area)
 print("O perimetro do circulo é: ", perimetro)
 
 # ----------------------------------------------------------------------------------------------------
-#%%
-# Faça um programa que receba um número em segundos, 
-# # converta esse número para horas, minuto e segundos.
-
-# segundos = input()
-# segundos = int(segundos)
-
-
-
-# minutos = segundos/60
-# minutos = float(minutos)
- 
-# if minutos >=60:
-#     minutos = minutos - 60
-
-
-
-# horas = segundos/3600
-# horas = float(horas)
-
-# print(segundos, minutos, horas)
-
 # ----------------------------------------------------------------------------------------------------
 #%%
 
@@ -188,17 +166,4 @@ for i in range(qntfrase):
 print(frase)
 
 # ----------------------------------------------------------------------------------------------------
-#%%
-# Faça um programa com uma função que recebe uma frase. Para cada palavra nesta frase, 
-# inverta a ordem das letras. 
-# Exiba o resultado
-
-
-# frases = []
-
-# choice = input("frase: ")
-
-# for i in choice:
-#     frases
-
 # ----------------------------------------------------------------------------------------------------
