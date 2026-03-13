@@ -1,0 +1,62 @@
+[
+    {
+        "cep": "01519-000",
+        "logradouro": "Rua do Lavapés",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Cambuci",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    },
+    {
+        "cep": "80250-200",
+        "logradouro": "Avenida Silva Jardim",
+        "complemento": "de 1196/1197 a 1589/1590",
+        "unidade": "",
+        "bairro": "Rebouças",
+        "localidade": "Curitiba",
+        "uf": "PR",
+        "estado": "Paraná",
+        "regiao": "Sul",
+        "ibge": "4106902",
+        "gia": "",
+        "ddd": "41",
+        "siafi": "7535"
+    },
+    {
+        "cep": "85640-000",
+        "logradouro": "",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "",
+        "localidade": "Ampére",
+        "uf": "PR",
+        "estado": "Paraná",
+        "regiao": "Sul",
+        "ibge": "4101002",
+        "gia": "",
+        "ddd": "46",
+        "siafi": "7417"
+    },
+    {
+        "cep": "21051-090",
+        "logradouro": "Rua Apace",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Del Castilho",
+        "localidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3304557",
+        "gia": "",
+        "ddd": "21",
+        "siafi": "6001"
+    }
+]
